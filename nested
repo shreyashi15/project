@@ -1,0 +1,17 @@
+        print("You picked  : Sedan")
+        print("Seats       : 5 passengers")
+        print("Best for    : Family trips")
+    else:
+        print("You picked  : SUV")
+        print("Seats       : 7 passengers")
+        print("Best for    : Off-road adventures")
+
+else:
+    print("That was not a valid choice.")
+    print("Please enter 1 for Bike or 2 for Car.")
+
+print()
+print("====================================")
+print("   Your custom ride is ready!       ")
+print("   Enjoy the journey!               ")
+print("====================================")
